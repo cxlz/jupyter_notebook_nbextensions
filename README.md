@@ -1,2 +1,3 @@
 # jupyter_notebook_nbextensions
-nbextensions/nbextensions_configurator
+nbextensions_configurator:https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator
+i
