@@ -1,0 +1,2 @@
+# jupyter_notebook_nbextensions
+nbextensions/nbextensions_configurator
